@@ -19,6 +19,7 @@ This is my personal portfolio website, built using **React**, **TypeScript**, **
 ---
 
 ## 📁 Project Structure
+```
 ├── public/
 ├── src/
 │ ├── components/ 
@@ -33,7 +34,7 @@ This is my personal portfolio website, built using **React**, **TypeScript**, **
 ├── vite.config.ts
 ├── tsconfig.json
 ├── package.json
-
+```
 
 </details>
 
